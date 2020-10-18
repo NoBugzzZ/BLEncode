@@ -27,8 +27,8 @@ buildNumber.properties
 .project
 .vscode/
 
-*.gitignore
-*.editorconfig
-*.DS_Store
-*.gitattributes
-*.travis.yml
+.gitignore
+.editorconfig
+.DS_Store
+.gitattributes
+.travis.yml
