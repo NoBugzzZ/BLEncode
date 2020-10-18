@@ -26,3 +26,9 @@ buildNumber.properties
 .factorypath
 .project
 .vscode/
+
+.gitignore
+.editorconfig
+.DS_Store
+.gitattributes
+.travis.yml
